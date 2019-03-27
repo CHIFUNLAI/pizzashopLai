@@ -3,7 +3,7 @@ package edu.psu.ist;
 Project: Lab 9
 Purpose Details: Pizza ordering application
 Course: IST 242
-Author: Joe Oakes
+Author: Chi
 Date Developed: 3/14/19
 Last Date Changed: 3/13/19
 Rev: 2

@@ -40,7 +40,7 @@ public class Main {
         Menu menu1 = new Menu(1, "Plain   $6");
         Menu menu2 = new Menu(2, "Meat    $6");
         Menu menu3 = new Menu(3, "Extra   $6");
-        Menu menu4 = new Menu(4, "Veg     $6");
+        Menu menu4 = new Menu(4, "Veg     $6"); //Comment
 
         mList.add(menu1);
         mList.add(menu2);
